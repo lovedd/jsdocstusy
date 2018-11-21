@@ -1,0 +1,10 @@
+{
+  "name": "jsdocstudy",
+  "version": "0.0.1",
+  "scripts": {
+    "docs": "jsdoc -c conf.json"
+  },
+  "dependencies": {
+
+  }
+}
